@@ -1,0 +1,28 @@
+.dashboard_wapper{
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.dashboard_row{
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.Cnt{
+    border: 1px solid grey;
+    margin: 20px;
+    width:30%;
+    height: 100px;
+    padding:30px;
+    font-weight:300;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

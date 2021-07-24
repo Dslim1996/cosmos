@@ -1,0 +1,38 @@
+
+.manager_banner{
+    width: 100%;
+    background-color: #444444;
+    height:70px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    position: fixed;
+    top:0;
+    left:0;
+    z-index: 1;
+}
+.logoBtn{
+    border:none;
+    background-color: transparent;
+    color: white;
+}
+.manager_login{
+    font-size: 13px;
+    position: fixed;
+    left: 88%;
+    color: white;
+}
+.userPageLink{
+    text-decoration-line:none;
+    font-size: 13px;
+    right: 83%;
+    position: fixed;
+    color: white;
+}
+.pageTitle{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-top:30px;
+}
